@@ -1,0 +1,28 @@
+Ctrl + Enter            在当前行下面新增一行然后跳至该行
+Ctrl + Shift + Enter    在当前行上面增加一行并跳至该行
+Ctrl + Shift + K 删除整行
+
+Shift + 上下键选中多行
+Ctrl + Shift + 左右键选中多个单词/shift + 左右键 单个字符选择
+Ctrl + 左右键 移动光标，以单词为单位
+Ctrl + Shift + 上下方向键 上下移动选中行
+
+Ctrl + D 选择光标所在词，并高亮所有该词
+
+F3/Shift + F3能在选择的词中切换
+Ctrl + F 查找/Ctrl + H 替换/Ctrl + R 列出大纲
+Ctrl + G 跳转到指定的行
+Ctrl + P 查找文件 匹配到文件后使用@ （指定符号）#（指定关键字） ：（指定行号）可以跳转到该文件指定位置
+Ctrl +N/W 新建或关闭标签页
+Ctrl + Shift + N/W 新建或关闭窗口
+Alt + Shift + 1/2/3 左右分屏 8 上下分屏 5 上下左右四分屏/分屏后 Ctrl + 1/2在屏之间切换，Ctrl + Shift + 1/2将当前标签移动到屏
+F11 全屏
+Ctrl + ` d调出控制台
+Ctrl + Shift + P 调出命令面板
+Ctrl + Shift + P 输入view 可以关闭和打开菜单栏等视图
+Ctrl + ]/[ 左右缩进选择行
+Ctrl + Shift + V 可以以当前缩进粘贴代码
+
+Ctrl + M 在起始括号直接切换，匹配括号、Ctrl + Shift + M则可以快速选择括号间的内容，Python使用Ctrl + Shift + J
+
+隐藏菜单栏时 使用Alt可以调出菜单栏
